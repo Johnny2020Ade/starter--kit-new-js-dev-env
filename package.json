@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Johnny2020Ade/starter--kit-new-js-dev-env#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "open": "^7.0.4",
     "path": "^0.12.7"
   }
